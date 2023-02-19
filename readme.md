@@ -45,10 +45,11 @@ styles/
 components/
 component-name/ -- папки компонентов (component-name меняем на наше нужно название)
 
-Конфиги:
+## Конфиги:
+
 в корне проекта создаем файлы .eslintignore, .eslintrc, .gitignore, .prettierrc, .stylelintrc, webpack.config.js
 
-.gitignore:
+### .gitignore:
 
 node_modules
 dist
