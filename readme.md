@@ -293,7 +293,7 @@ presets: ['@babel/preset-env'],
 ]
 }
 
-### ##Scripts: ну и добависм скрипты для запуска webpack и linter-ов в package.json:
+### ##Scripts: ну и добавим скрипты для запуска webpack и linter-ов в package.json:
 
 "scripts": {
 "start": "cross-env NODE_ENV=development webpack serve",
