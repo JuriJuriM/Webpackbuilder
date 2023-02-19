@@ -8,31 +8,31 @@
 
 npm i --save -D webpack webpack-cli webpack-dev-server cross-env
 
-pug:
+> pug:
 
 npm i --save -D pug simple-pug-loader simple-pug-loader html-webpack-plugin
 
-scss:
+> scss:
 
 npm i --save -D sass sass-loader postcss postcss-loader postcss-preset-env css-loader autoprefixer resolve-url-loader mini-css-extract-plugin
 
-babel:
+> babel:
 
 npm i --save -D @babel/core @babel/preset-env babel-loader babel-eslint
 
-eslint:
+> eslint:
 
 npm i --save -D eslint eslint-config-airbnb eslint-config-airbnb-base eslint-plugin-import
 
-stylelint:
+> stylelint:
 
 npm i --save -D stylelint stylelint-config-airbnb stylelint-config-rational-order stylelint-declaration-block-no-ignored-properties stylelint-order stylelint-scss
 
-prettier:
+> prettier:
 
 npm i --save -D prettier eslint-config-prettier eslint-plugin-prettier prettier-eslint stylelint-config-prettier stylelint-prettier
 
-Структура файлов
+## Структура файлов
 
 src / -- корневая папка
 pages/
