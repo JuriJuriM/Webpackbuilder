@@ -188,7 +188,7 @@ presets: ['@babel/preset-env'],
 },
 };
 
-.eslintrc:
+### .eslintrc:
 
 {
 "parserOptions": {
@@ -222,7 +222,7 @@ presets: ['@babel/preset-env'],
 }
 }
 
-.stylelintrc:
+### .stylelintrc:
 
 {
 "extends":[
@@ -270,7 +270,7 @@ presets: ['@babel/preset-env'],
 }
 }
 
-.prettierrc.json:
+### .prettierrc.json:
 
 {
 "singleQuote": true,
@@ -293,7 +293,7 @@ presets: ['@babel/preset-env'],
 ]
 }
 
-##Scripts: ну и добависм скрипты для запуска webpack и linter-ов в package.json:
+### ##Scripts: ну и добависм скрипты для запуска webpack и linter-ов в package.json:
 
 "scripts": {
 "start": "cross-env NODE_ENV=development webpack serve",
