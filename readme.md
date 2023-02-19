@@ -54,11 +54,11 @@ component-name/ -- папки компонентов (component-name меняе�
 node_modules
 dist
 
-.eslintignore:
+### .eslintignore:
 
 webpack.config.js
 
-webpack.config.js :
+### webpack.config.js :
 
 const path = require('path');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
