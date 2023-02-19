@@ -4,7 +4,7 @@
 
 ### Установим все необходимые пакеты:
 
-webpack:
+> webpack:
 
 npm i --save -D webpack webpack-cli webpack-dev-server cross-env
 
