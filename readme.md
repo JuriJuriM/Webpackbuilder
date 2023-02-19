@@ -1,7 +1,8 @@
-webpack-guide
-Гайд по сборке многостраничного сайта + линтеры (pug, scss, babel, eslint, stylelint, prittier)
+# webpack-guide
 
-Установим все необходимые пакеты:
+## Гайд по сборке многостраничного сайта + линтеры (pug, scss, babel, eslint, stylelint, prittier)
+
+### Установим все необходимые пакеты:
 
 webpack:
 
